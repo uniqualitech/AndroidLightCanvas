@@ -1,4 +1,4 @@
-# MyLittleCanvas
+# Android Light Canvas
 
 🎨 Need to create a custom view ?
 
